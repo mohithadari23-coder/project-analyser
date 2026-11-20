@@ -1,0 +1,6 @@
+{
+  "name": "AI Research Studio",
+  "description": "3D cinematic AI-powered academic research paper generator for titles, abstracts, keywords, objectives, and future enhancements.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
